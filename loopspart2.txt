@@ -1,0 +1,15 @@
+Pseudocode
+
+Activity one 
+Get principle, principle 
+Get interest rate, rate
+Get the term, year
+For i in range, year
+Output 
+Year
+Starting amount
+Interest = principle x rate / 100
+Principle = principle+interest
+End year balance, principle 
+x= x + 1
+Year = year -1
